@@ -13,6 +13,7 @@ sites:
     url: https://doc2landing.cloudintegration.eu/
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cloudintegration.eu
@@ -29,8 +30,8 @@ status-website:
       href: https://polydocs.io
     - title: Docs
       href: https://doc.cloudintegration.io
-  i18n:
-    footer: ""
+i18n:
+  footer: "[Polydocs](https://polydocs.io)"
   
 
 # status-website:

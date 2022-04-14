@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Fellow-Consulting-AG # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CloudIntegration Public
+    url: https://cloudintegration.eu/
+  - name: Extraction and Classifications API
+    url: https://fellowkv2.cloudintegration.eu/
+  - name: Doc Square App
+    url: https://doc2app.cloudintegration.eu/
+  - name: Doc Square Landing Page
+    url: https://doc2landing.cloudintegration.eu/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

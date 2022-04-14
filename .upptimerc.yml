@@ -7,9 +7,9 @@ sites:
     url: https://cloudintegration.eu/
   - name: Extraction and Classifications API
     url: https://fellowkv2.cloudintegration.eu/
-  - name: Doc &sup2; App
+  - name: Doc² App
     url: https://doc2app.cloudintegration.eu/
-  - name: Doc &sup2; Landing Page
+  - name: Doc² Landing Page
     url: https://doc2landing.cloudintegration.eu/
 
 status-website:
@@ -33,10 +33,3 @@ status-website:
 i18n:
   footer: "[Polydocs](https://polydocs.io)"
   
-
-# status-website:
-#   baseUrl: /upptime # where "repo" is your repository name
-#   name: Status
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

@@ -29,6 +29,9 @@ status-website:
       href: https://polydocs.io
     - title: Docs
       href: https://doc.cloudintegration.io
+  i18n:
+    footer: ""
+  
 
 # status-website:
 #   baseUrl: /upptime # where "repo" is your repository name

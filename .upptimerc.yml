@@ -11,6 +11,8 @@ sites:
     url: https://doc2app.cloudintegration.eu/
   - name: Doc² Landing Page
     url: https://doc2landing.cloudintegration.eu/
+  - name: Doc² Authorization Server
+    url: https://auth.cloudintegration.eu/
 
 status-website:
   theme: dark

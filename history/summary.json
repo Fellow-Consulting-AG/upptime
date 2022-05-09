@@ -58,10 +58,10 @@
     "url": "https://doc2landing.cloudintegration.eu/",
     "icon": "https://favicons.githubusercontent.com/doc2landing.cloudintegration.eu",
     "slug": "doc-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
@@ -69,14 +69,16 @@
     "timeWeek": 411,
     "timeMonth": 447,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 1
+    }
   },
   {
     "name": "Doc² Authorization Server",
     "url": "https://auth.cloudintegration.eu/",
     "icon": "https://favicons.githubusercontent.com/auth.cloudintegration.eu",
     "slug": "doc-authorization-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 411,
     "timeMonth": 443,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   }
 ]

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 494,
-    "timeWeek": 570,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "time": 591,
+    "timeDay": 435,
+    "timeWeek": 534,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 397,
-    "timeWeek": 437,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "time": 434,
+    "timeDay": 390,
+    "timeWeek": 418,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 382,
-    "timeWeek": 550,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 472,
+    "timeDay": 343,
+    "timeWeek": 534,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/doc2landing.cloudintegration.eu",
     "slug": "doc-landing-page",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 445,
-    "timeDay": 355,
-    "timeWeek": 408,
-    "timeMonth": 445,
-    "timeYear": 445,
-    "dailyMinutesDown": {
-      "2022-05-09": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 443,
+    "timeDay": 390,
+    "timeWeek": 403,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Doc² Authorization Server",
@@ -79,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/auth.cloudintegration.eu",
     "slug": "doc-authorization-server",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 438,
-    "timeDay": 320,
-    "timeWeek": 398,
-    "timeMonth": 438,
-    "timeYear": 438,
-    "dailyMinutesDown": {
-      "2022-05-09": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 437,
+    "timeDay": 355,
+    "timeWeek": 393,
+    "timeMonth": 437,
+    "timeYear": 437,
+    "dailyMinutesDown": {}
   }
 ]

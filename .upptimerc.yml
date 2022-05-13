@@ -31,7 +31,7 @@ status-website:
     - title: Polydocs
       href: https://polydocs.io
     - title: Docs
-      href: https://doc.cloudintegration.io
+      href: https://docs.polydocs.io/
 i18n:
   footer: "[Polydocs](https://polydocs.io)"
   

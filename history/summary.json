@@ -91,9 +91,9 @@
     "url": "https://auth.cloudintegration.eu/",
     "icon": "https://favicons.githubusercontent.com/auth.cloudintegration.eu",
     "slug": "doc-authorization-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -103,6 +103,7 @@
     "timeMonth": 460,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2022-07-22": 0,
       "2022-06-21": 19,
       "2022-06-14": 26,
       "2022-06-13": 10

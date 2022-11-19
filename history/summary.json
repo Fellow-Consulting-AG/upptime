@@ -70,9 +70,9 @@
     "url": "https://doc2landing.cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -82,6 +82,7 @@
     "timeMonth": 451,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2022-11-19": 0,
       "2022-06-21": 19,
       "2022-06-14": 26,
       "2022-06-13": 11

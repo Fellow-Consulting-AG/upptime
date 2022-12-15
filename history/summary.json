@@ -25,9 +25,9 @@
     "url": "https://fellowkv2.cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/fellowkv2.cloudintegration.eu.ico",
     "slug": "extraction-and-classifications-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -37,6 +37,7 @@
     "timeMonth": 506,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2022-12-15": 0,
       "2022-06-21": 20,
       "2022-06-14": 26,
       "2022-06-13": 12

@@ -1,7 +1,7 @@
 url: https://cloudintegration.eu/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2024-02-07T16:42:50.295Z
+status: down
+code: 504
+responseTime: 3326
+lastUpdated: 2024-02-07T16:59:39.974Z
 startTime: 2022-04-14T06:02:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>

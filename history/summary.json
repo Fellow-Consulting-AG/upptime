@@ -4,19 +4,19 @@
     "url": "https://cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 1984,
-    "timeWeek": 1159,
-    "timeMonth": 798,
-    "timeYear": 678,
+    "time": 662,
+    "timeDay": 1629,
+    "timeWeek": 1072,
+    "timeMonth": 781,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-02-07": 0
+      "2024-02-07": 10
     }
   },
   {
@@ -70,7 +70,7 @@
     "uptime": "95.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.46%",
+    "uptimeMonth": "0.44%",
     "uptimeYear": "91.70%",
     "time": 498,
     "timeDay": 501,
@@ -78,7 +78,7 @@
     "timeMonth": 469,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2024-02-07": 1020,
+      "2024-02-07": 1030,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,

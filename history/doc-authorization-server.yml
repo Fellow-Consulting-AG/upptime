@@ -1,7 +1,7 @@
 url: https://auth.cloudintegration.eu/
-status: down
-code: 503
-responseTime: 326
-lastUpdated: 2024-08-01T10:05:39.632Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2024-08-01T10:31:53.315Z
 startTime: 2022-04-15T05:37:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>

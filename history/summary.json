@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "60.81%",
+    "uptime": "60.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 22,
+      "2025-11-03": 22,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -379,8 +380,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 475,
-    "timeDay": 656,
-    "timeWeek": 665,
+    "timeDay": 667,
+    "timeWeek": 663,
     "timeMonth": 594,
     "timeYear": 476,
     "dailyMinutesDown": {
@@ -415,9 +415,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
     "time": 636,
-    "timeDay": 773,
-    "timeWeek": 699,
-    "timeMonth": 743,
+    "timeDay": 698,
+    "timeWeek": 698,
+    "timeMonth": 738,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-10-22": 59,
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "48.84%",
+    "uptime": "48.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -443,7 +443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 22,
+      "2025-11-03": 22,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -806,8 +807,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -821,11 +821,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 472,
-    "timeWeek": 444,
-    "timeMonth": 501,
-    "timeYear": 450,
+    "time": 444,
+    "timeDay": 533,
+    "timeWeek": 439,
+    "timeMonth": 503,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2024-11-06": 21
     }

@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "59.04%",
+    "uptime": "58.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 22,
+      "2025-12-12": 22,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -379,8 +380,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 477,
-    "timeDay": 1042,
-    "timeWeek": 628,
-    "timeMonth": 575,
+    "timeDay": 521,
+    "timeWeek": 631,
+    "timeMonth": 570,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-08-01": 409
@@ -410,15 +410,15 @@
     "slug": "doc-app",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "94.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
-    "time": 644,
-    "timeDay": 889,
-    "timeWeek": 834,
-    "timeMonth": 782,
-    "timeYear": 659,
+    "time": 645,
+    "timeDay": 1205,
+    "timeWeek": 878,
+    "timeMonth": 802,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-12-10": 76,
       "2025-10-22": 59,
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "47.41%",
+    "uptime": "47.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -443,7 +443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 22,
+      "2025-12-12": 22,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -806,8 +807,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -817,15 +817,15 @@
     "slug": "doc-authorization-server",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 453,
-    "timeDay": 521,
-    "timeWeek": 577,
-    "timeMonth": 552,
-    "timeYear": 462,
+    "timeDay": 528,
+    "timeWeek": 585,
+    "timeMonth": 549,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-12-10": 48
     }

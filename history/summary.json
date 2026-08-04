@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "50.21%",
+    "uptime": "50.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-03": 37,
+      "2026-08-04": 36,
+      "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -379,8 +380,7 @@
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
-      "2025-08-05": 1440,
-      "2025-08-04": 1440
+      "2025-08-05": 1440
     }
   },
   {
@@ -389,20 +389,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/fellowkv2.cloudintegration.eu.ico",
     "slug": "extraction-and-classifications-api",
     "status": "down",
-    "uptime": "99.83%",
+    "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.60%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "99.46%",
-    "time": 567,
-    "timeDay": 4516,
-    "timeWeek": 2007,
-    "timeMonth": 886,
-    "timeYear": 602,
+    "uptimeWeek": "64.32%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.19%",
+    "time": 575,
+    "timeDay": 4327,
+    "timeWeek": 2460,
+    "timeMonth": 1014,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2026-03-18": 24,
       "2026-06-20": 649,
-      "2026-08-03": 37,
+      "2026-08-04": 36,
+      "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 680
     }
@@ -415,13 +416,13 @@
     "status": "up",
     "uptime": "97.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.60%",
-    "uptimeMonth": "12.27%",
+    "uptimeWeek": "75.87%",
+    "uptimeMonth": "15.55%",
     "uptimeYear": "88.93%",
     "time": 666,
-    "timeDay": 925,
-    "timeWeek": 907,
-    "timeMonth": 578,
+    "timeDay": 709,
+    "timeWeek": 879,
+    "timeMonth": 585,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2025-10-22": 59,
@@ -476,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "40.32%",
+    "uptime": "40.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -487,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-03": 38,
+      "2026-08-04": 36,
+      "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
@@ -850,8 +852,7 @@
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
-      "2025-08-05": 1440,
-      "2025-08-04": 1440
+      "2025-08-05": 1440
     }
   },
   {
@@ -866,8 +867,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 483,
-    "timeDay": 548,
-    "timeWeek": 533,
+    "timeDay": 343,
+    "timeWeek": 500,
     "timeMonth": 456,
     "timeYear": 498,
     "dailyMinutesDown": {

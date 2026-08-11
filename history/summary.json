@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "49.99%",
+    "uptime": "49.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 20,
+      "2026-08-11": 19,
+      "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -379,8 +380,7 @@
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
-      "2025-08-12": 1440,
-      "2025-08-11": 1440
+      "2025-08-12": 1440
     }
   },
   {
@@ -391,13 +391,13 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "54.57%",
+    "uptimeWeek": "68.85%",
     "uptimeMonth": "84.66%",
     "uptimeYear": "98.59%",
     "time": 592,
-    "timeDay": 533,
-    "timeWeek": 1979,
-    "timeMonth": 1260,
+    "timeDay": 480,
+    "timeWeek": 1498,
+    "timeMonth": 1261,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2026-03-18": 24,
@@ -419,13 +419,13 @@
     "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.24%",
+    "uptimeMonth": "38.53%",
     "uptimeYear": "88.93%",
-    "time": 669,
-    "timeDay": 724,
-    "timeWeek": 809,
-    "timeMonth": 648,
-    "timeYear": 687,
+    "time": 670,
+    "timeDay": 1024,
+    "timeWeek": 854,
+    "timeMonth": 663,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-10-22": 59,
       "2025-12-10": 76,
@@ -479,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "40.14%",
+    "uptime": "40.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 20,
+      "2026-08-11": 20,
+      "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
@@ -853,8 +854,7 @@
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
-      "2025-08-12": 1440,
-      "2025-08-11": 1440
+      "2025-08-12": 1440
     }
   },
   {
@@ -869,10 +869,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 484,
-    "timeDay": 320,
-    "timeWeek": 442,
-    "timeMonth": 458,
-    "timeYear": 499,
+    "timeDay": 639,
+    "timeWeek": 484,
+    "timeMonth": 465,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-12-10": 48,
       "2026-06-21": 445,
